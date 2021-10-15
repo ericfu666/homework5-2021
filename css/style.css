@@ -182,8 +182,7 @@ header{
   padding: 30px;
 
   /* Your code here */
-  justify-items: center;
-  align-items: center;
+  align-self: center;
 
 }
 
